@@ -24,6 +24,7 @@ public class Student
     public Student(string name): this(name, nextStudentId)
     {
         nextStudentId++;
+        //adding notes 
     }
 
 }
